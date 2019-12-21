@@ -1,0 +1,9 @@
+README.md
+fileMover.py
+setup.py
+fileMover.egg-info/PKG-INFO
+fileMover.egg-info/SOURCES.txt
+fileMover.egg-info/dependency_links.txt
+fileMover.egg-info/entry_points.txt
+fileMover.egg-info/requires.txt
+fileMover.egg-info/top_level.txt
